@@ -1,0 +1,34 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Wayfarer's Waypoint"
+fitle = "Wayfarer's Waypoint"
+theme = 'ananke'
+
+[params]
+  displayRecentArticles = false
+  showTopLogo = true
+
+[[params.ananke_socials]]
+  name = "twitter"
+  url = "https://twitter.com/theNewDynamic"
+  label = "My twitter"
+  
+[[params.ananke_socials]]
+  name = "discord"
+  url = "https://twitter.com/theNewDynamic"
+  label = "discord"
+
+[[params.ananke_socials]]
+  name = "patreon"
+  url = "https://twitter.com/theNewDynamic"
+  label = "Patreon"
+
+[[params.ananke_socials]]
+  name = "youtube"
+  url = "https://twitter.com/theNewDynamic"
+  label = "Patreon"
+
+[[params.ananke_socials]]
+  name = "epicgamesstore"
+  url = "https://twitter.com/theNewDynamic"
+  label = "Epic Games"
